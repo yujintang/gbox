@@ -1,2 +1,7 @@
 # gbox
-常用js类型判断
+
+## jsType
+```js
+const gbox = require('gbox');
+gbox.jsType('Array', [1,2,3]);
+```
