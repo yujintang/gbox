@@ -1,5 +1,10 @@
 # gbox
 
+## Install
+```shell
+yarn add gbox
+```
+
 ## jsType
 ```js
 const gbox = require('gbox');

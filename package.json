@@ -1,6 +1,6 @@
 {
   "name": "gbox",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "repository": "git@github.com:yujintang/gbox.git",
   "author": "flynn.yu <shanquan54@gmail.com>",
